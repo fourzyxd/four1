@@ -26,23 +26,21 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
+FN: ᯤ ᴋuroxd
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=62895327934887:62895327934887@s.whatsapp.net
+item1.TEL;waid=6285748600473:6285748600473@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
-item2.EMAIL;type=INTERNET: mhdfakri14@gmail.com
+item2.EMAIL;type=INTERNET: kuroyama911@gmail.com
 item2.X-ABLabel:📫 Gmail
-item3.ADR:;;📍 Acehnese - Indonesian;;;;
+item3.ADR:;;📍 hidden - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
-item4.URL:http://youtube.com/c/hokenbeusz
-item4.X-ABLabel:Youtube
-item5.URL:https//github.com/krizynofc
-item5.X-ABLabel:Github
-item6.URL:https//instagram.com/mhdfakri_
-item6.X-ABLabel:Instagram
-item7.URL:https://lynk.id/kri.com
-item7.X-ABLabel:Website
+item4.URL:https//github.com/fourzyxd
+item4.X-ABLabel:Github
+item5.URL:https//instagram.com/ydh1._
+item5.X-ABLabel:Instagram
+item6.URL:https://lynk.id/kuroyama.com
+item6.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
