@@ -17,7 +17,7 @@ global.nobot = '6285791371170'
 //  URL SOSMED
 global.instagram = 'https://instagram.com/ydh1._'
 global.github = 'https://github.com/fourzyxd'
-global.gc = -'
+global.gc = '-'
 global.web = 'https://lynk.id/kuroyama.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = '-'
 
